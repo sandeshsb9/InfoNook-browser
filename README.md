@@ -22,17 +22,15 @@ To get started with the project, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/your-repository.git
+   
+   Navigate to the Project Directory:
+    cd your-repository
 
-Navigate to the Project Directory:
-cd your-repository
+    Install Dependencies:
+    pip install -r requirements.txt
 
-Install Dependencies:
-pip install -r requirements.txt
-
-Run the Application:
-python app.py
+   Run the Application:
+   python app.py
 
 The application will be available at http://127.0.0.1:5000/ by default.
 
-
-Feel free to customize this Markdown template with your actual project details! If you have any other requests or need further assistance, just let me know. 😊
