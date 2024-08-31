@@ -32,5 +32,5 @@ To get started with the project, follow these steps:
    Run the Application:
    python app.py
 
-The application will be available at http://127.0.0.1:5000/ by default.
+Enjoy the browser haha 😉😉😍
 
